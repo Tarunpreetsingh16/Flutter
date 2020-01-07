@@ -1,10 +1,10 @@
 # contact_card
 
-First flutter application built with the help of London Brew Library tutotrials udemy.
+First flutter application built with the help of London App Brewery tutorials udemy.
 [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 
 
-## A basic contact card application built using LondonBrew tutorials
+## A basic contact card application built using London App Brewery tutorials
 
 ### Screenshot of the application
 
