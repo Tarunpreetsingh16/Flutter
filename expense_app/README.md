@@ -1,7 +1,7 @@
 A simple project made using flutter as a part of the course on udemy.
 
-###Purpose - 
-####To get the grasp pf some basic flutter widgets.
+### Purpose - 
+#### To get the grasp pf some basic flutter widgets.
 
 Some of the Widgets used in this projects - 
 1. DatePicker
