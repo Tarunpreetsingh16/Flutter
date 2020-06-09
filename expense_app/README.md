@@ -18,6 +18,19 @@ Widgets used in this application -
 
 Here are some screenshots of the application - 
 
+#### Landing screen
+![Landing Screen](https://github.com/Tarunpreetsingh16/Flutter/blob/first_assgniment/expense_app/screenshots/Screenshot_20200609_103538_com.example.expense_app.jpg)
+
+#### ModalSheet screen
+![ModalSheet Screen](https://github.com/Tarunpreetsingh16/Flutter/blob/first_assgniment/expense_app/screenshots/Screenshot_20200609_103542_com.example.expense_app.jpg)
+
+#### DatePicker screen
+![DatePicket screen](https://github.com/Tarunpreetsingh16/Flutter/blob/first_assgniment/expense_app/screenshots/Screenshot_20200609_103546_com.example.expense_app.jpg)
+
+#### After adding transctions
+![After adding transctions](https://github.com/Tarunpreetsingh16/Flutter/blob/first_assgniment/expense_app/screenshots/Screenshot_20200609_103646_com.example.expense_app.jpg)
+
+
 
 Resources - 
 
